@@ -1,0 +1,1519 @@
+{
+    "messages": [
+        {
+            "id1": "",
+            "title": "hello",
+            "senderName": "Musa Ade",
+            "messageText": "Just greeting you",
+            "time": "12pm",
+            "avatarUrl": "/assets/images/property1.jpg",
+            "receiverName": "Mark Ochoga"
+        },
+        {
+            "id2": "",
+            "title": "hi",
+            "senderName": "Mary ude",
+            "messageText": "Just Answering you",
+            "time": "1pm",
+            "avatarUrl": "/assets/images/property1.jpg",
+            "receiverName": "Mike Okoro"
+        },
+        {
+            "id3": "",
+            "title": "hello",
+            "senderName": "Yakubu John",
+            "messageText": "How you dey",
+            "time": "2pm",
+            "avatarUrl": "/assets/images/property1.jpg",
+            "receiverName": "Mark Ochoga"
+        },
+        {
+            "id4": "",
+            "title": "hello",
+            "senderName": "Jude Ida",
+            "messageText": "How much is the house",
+            "time": "3pm",
+            "avatarUrl": "/assets/images/property1.jpg",
+            "receiverName": "Mark Ochoga"
+        },
+        {
+            "id5": "",
+            "title": "hello",
+            "senderName": "Musa Ade",
+            "messageText": "Am seeling it N23,000,000",
+            "time": "4pm",
+            "avatarUrl": "/assets/images/property1.jpg",
+            "receiverName": "Mark Ochoga"
+        },
+        {
+            "id6": "",
+            "title": "hello",
+            "senderName": "Markus Ada",
+            "messageText": "Is it furnished",
+            "time": "5pm",
+            "avatarUrl": "/assets/images/property1.jpg",
+            "receiverName": "Mark Ochoga"
+        }
+    ],
+    "users": {
+        "user1": {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        "user2": {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp3": true,
+                "wishgrp4": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        "user3": {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp5": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        "user4": {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp2": true,
+                "wishgrp6": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        "user5": {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp3": true,
+                "wishgrp5": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        "user6": {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp4": true,
+                "wishgrp6": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        "user7": {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp4": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        "user8": {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp2": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        "user9": {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        "user10": {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        "user11": {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        "user12": {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        "user13": {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        "user14": {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        "user15": {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        "user16": {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        "user17": {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        "user18": {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        "user19": {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        "user20": {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        }
+    },
+    "properties": {
+        "property1": {
+            "description": "A two-bedrooms bungalow",
+            "features": ["two self-conatined BQ", "perimeter fencing", " painted interior and exteriors", "wall of trees", "standby Lister-Generator"],
+            "price": "N20,000,000",
+            "address": "18 Uzama Street, Garki, Abuja",
+            "postedBy": "Agent1",
+            "datePosted": "10th April, 2019",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "viewedBy": "67 persons",
+            "wishedBy": "35 persons",
+            "location": "Abuja",
+            "verified": true
+        },
+        "property2": {
+            "description": "A two-bedrooms bungalow",
+            "features": ["two self-conatined BQ", "perimeter fencing", " painted interior and exteriors", "wall of trees", "standby Lister-Generator"],
+            "price": "N20,000,000",
+            "address": "18 Uzama Street, Garki, Abuja",
+            "postedBy": "Agent1",
+            "datePosted": "10th April, 2019",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "viewedBy": "67 persons",
+            "wishedBy": "35 persons",
+            "location": "Abuja",
+            "verified": true
+        },
+        "property3": {
+            "description": "A two-bedrooms bungalow",
+            "features": ["two self-conatined BQ", "perimeter fencing", " painted interior and exteriors", "wall of trees", "standby Lister-Generator"],
+            "price": "N20,000,000",
+            "address": "18 Uzama Street, Garki, Abuja",
+            "postedBy": "Agent1",
+            "datePosted": "10th April, 2019",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "viewedBy": "67 persons",
+            "wishedBy": "35 persons",
+            "location": "Abuja",
+            "verified": true
+        },
+        "property4": {
+            "description": "A two-bedrooms bungalow",
+            "features": ["two self-conatined BQ", "perimeter fencing", " painted interior and exteriors", "wall of trees", "standby Lister-Generator"],
+            "price": "N20,000,000",
+            "address": "18 Uzama Street, Garki, Abuja",
+            "postedBy": "Agent1",
+            "datePosted": "10th April, 2019",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "viewedBy": "67 persons",
+            "wishedBy": "35 persons",
+            "location": "Abuja",
+            "verified": true
+        },
+        "property5": {
+            "description": "A two-bedrooms bungalow",
+            "features": ["two self-conatined BQ", "perimeter fencing", " painted interior and exteriors", "wall of trees", "standby Lister-Generator"],
+            "price": "N20,000,000",
+            "address": "18 Uzama Street, Garki, Abuja",
+            "postedBy": "Agent1",
+            "datePosted": "10th April, 2019",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "viewedBy": "67 persons",
+            "wishedBy": "35 persons",
+            "location": "Abuja",
+            "verified": true
+        },
+        "property6": {
+            "description": "A two-bedrooms bungalow",
+            "features": ["two self-conatined BQ", "perimeter fencing", " painted interior and exteriors", "wall of trees", "standby Lister-Generator"],
+            "price": "N20,000,000",
+            "address": "18 Uzama Street, Garki, Abuja",
+            "postedBy": "Agent1",
+            "datePosted": "10th April, 2019",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "viewedBy": "67 persons",
+            "wishedBy": "35 persons",
+            "location": "Abuja",
+            "verified": true
+        },
+        "property7": {
+            "description": "A two-bedrooms bungalow",
+            "features": ["two self-conatined BQ", "perimeter fencing", " painted interior and exteriors", "wall of trees", "standby Lister-Generator"],
+            "price": "N20,000,000",
+            "address": "18 Uzama Street, Garki, Abuja",
+            "postedBy": "Agent1",
+            "datePosted": "10th April, 2019",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "viewedBy": "67 persons",
+            "wishedBy": "35 persons",
+            "location": "Abuja",
+            "verified": true
+        },
+        "property8": {
+            "description": "A two-bedrooms bungalow",
+            "features": ["two self-conatined BQ", "perimeter fencing", " painted interior and exteriors", "wall of trees", "standby Lister-Generator"],
+            "price": "N20,000,000",
+            "address": "18 Uzama Street, Garki, Abuja",
+            "postedBy": "Agent1",
+            "datePosted": "10th April, 2019",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "viewedBy": "67 persons",
+            "wishedBy": "35 persons",
+            "location": "Abuja",
+            "verified": true
+        },
+        "property9": {
+            "description": "A two-bedrooms bungalow",
+            "features": ["two self-conatined BQ", "perimeter fencing", " painted interior and exteriors", "wall of trees", "standby Lister-Generator"],
+            "price": "N20,000,000",
+            "address": "18 Uzama Street, Garki, Abuja",
+            "postedBy": "Agent1",
+            "datePosted": "10th April, 2019",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "viewedBy": "67 persons",
+            "wishedBy": "35 persons",
+            "location": "Abuja",
+            "verified": true
+        },
+        "property10": {
+            "description": "A two-bedrooms bungalow",
+            "features": ["two self-conatined BQ", "perimeter fencing", " painted interior and exteriors", "wall of trees", "standby Lister-Generator"],
+            "price": "N20,000,000",
+            "address": "18 Uzama Street, Garki, Abuja",
+            "postedBy": "Agent1",
+            "datePosted": "10th April, 2019",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "viewedBy": "67 persons",
+            "wishedBy": "35 persons",
+            "location": "Abuja",
+            "verified": true
+        },
+        "property11": {
+            "description": "A two-bedrooms bungalow",
+            "features": ["two self-conatined BQ", "perimeter fencing", " painted interior and exteriors", "wall of trees", "standby Lister-Generator"],
+            "price": "N20,000,000",
+            "address": "18 Uzama Street, Garki, Abuja",
+            "postedBy": "Agent1",
+            "datePosted": "10th April, 2019",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "viewedBy": "67 persons",
+            "wishedBy": "35 persons",
+            "location": "Abuja",
+            "verified": true
+        },
+        "property12": {
+            "description": "A two-bedrooms bungalow",
+            "features": ["two self-conatined BQ", "perimeter fencing", " painted interior and exteriors", "wall of trees", "standby Lister-Generator"],
+            "price": "N20,000,000",
+            "address": "18 Uzama Street, Garki, Abuja",
+            "postedBy": "Agent1",
+            "datePosted": "10th April, 2019",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "viewedBy": "67 persons",
+            "wishedBy": "35 persons",
+            "location": "Abuja",
+            "verified": true
+        },
+        "property13": {
+            "description": "A two-bedrooms bungalow",
+            "features": ["two self-conatined BQ", "perimeter fencing", " painted interior and exteriors", "wall of trees", "standby Lister-Generator"],
+            "price": "N20,000,000",
+            "address": "18 Uzama Street, Garki, Abuja",
+            "postedBy": "Agent1",
+            "datePosted": "10th April, 2019",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "viewedBy": "67 persons",
+            "wishedBy": "35 persons",
+            "location": "Abuja",
+            "verified": true
+        },
+        "property14": {
+            "description": "A two-bedrooms bungalow",
+            "features": ["two self-conatined BQ", "perimeter fencing", " painted interior and exteriors", "wall of trees", "standby Lister-Generator"],
+            "price": "N20,000,000",
+            "address": "18 Uzama Street, Garki, Abuja",
+            "postedBy": "Agent1",
+            "datePosted": "10th April, 2019",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "viewedBy": "67 persons",
+            "wishedBy": "35 persons",
+            "location": "Abuja",
+            "verified": true
+        },
+        "property15": {
+            "description": "A two-bedrooms bungalow",
+            "features": ["two self-conatined BQ", "perimeter fencing", " painted interior and exteriors", "wall of trees", "standby Lister-Generator"],
+            "price": "N20,000,000",
+            "address": "18 Uzama Street, Garki, Abuja",
+            "postedBy": "Agent1",
+            "datePosted": "10th April, 2019",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "viewedBy": "67 persons",
+            "wishedBy": "35 persons",
+            "location": "Abuja",
+            "verified": true
+        },
+        "property16": {
+            "description": "A two-bedrooms bungalow",
+            "features": ["two self-conatined BQ", "perimeter fencing", " painted interior and exteriors", "wall of trees", "standby Lister-Generator"],
+            "price": "N20,000,000",
+            "address": "18 Uzama Street, Garki, Abuja",
+            "postedBy": "Agent1",
+            "datePosted": "10th April, 2019",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "viewedBy": "67 persons",
+            "wishedBy": "35 persons",
+            "location": "Abuja",
+            "verified": true
+        },
+        "property17": {
+            "description": "A two-bedrooms bungalow",
+            "features": ["two self-conatined BQ", "perimeter fencing", " painted interior and exteriors", "wall of trees", "standby Lister-Generator"],
+            "price": "N20,000,000",
+            "address": "18 Uzama Street, Garki, Abuja",
+            "postedBy": "Agent1",
+            "datePosted": "10th April, 2019",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "viewedBy": "67 persons",
+            "wishedBy": "35 persons",
+            "location": "Abuja",
+            "verified": true
+        },
+        "property18": {
+            "description": "A two-bedrooms bungalow",
+            "features": ["two self-conatined BQ", "perimeter fencing", " painted interior and exteriors", "wall of trees", "standby Lister-Generator"],
+            "price": "N20,000,000",
+            "address": "18 Uzama Street, Garki, Abuja",
+            "postedBy": "Agent1",
+            "datePosted": "10th April, 2019",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "viewedBy": "67 persons",
+            "wishedBy": "35 persons",
+            "location": "Abuja",
+            "verified": true
+        },
+        "property19": {
+            "description": "A two-bedrooms bungalow",
+            "features": ["two self-conatined BQ", "perimeter fencing", " painted interior and exteriors", "wall of trees", "standby Lister-Generator"],
+            "price": "N20,000,000",
+            "address": "18 Uzama Street, Garki, Abuja",
+            "postedBy": "Agent1",
+            "datePosted": "10th April, 2019",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "viewedBy": "67 persons",
+            "wishedBy": "35 persons",
+            "location": "Abuja",
+            "verified": true
+        },
+        "property20": {
+            "description": "A two-bedrooms bungalow",
+            "features": ["two self-conatined BQ", "perimeter fencing", " painted interior and exteriors", "wall of trees", "standby Lister-Generator"],
+            "price": "N20,000,000",
+            "address": "18 Uzama Street, Garki, Abuja",
+            "postedBy": "Agent1",
+            "datePosted": "10th April, 2019",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "viewedBy": "67 persons",
+            "wishedBy": "35 persons",
+            "location": "Abuja",
+            "verified": true
+        }
+    },
+    "agents": {
+        "agent1": {
+            "title": "Mr",
+            "firstName": "Kelvin",
+            "surname": "Musa",
+            "gender": "Male",
+            "livesAt": "12 Aboki street, Wuse, abuja",
+            "officeAt": "7 Danjuma Close, Gwarimpa, Abuja",
+            "firmName": "Musa Properties Ltd",
+            "designation": "Marketing Officer",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "qualifications": "Engineer",
+            "married": true,
+            "marriedTo": "Mary Musa",
+            "verified": true,
+            "myListings": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "createdAt": "12th March, 2019"
+        },
+        "agent2": {
+            "title": "Mr",
+            "firstName": "Kelvin",
+            "surname": "Musa",
+            "gender": "Male",
+            "livesAt": "12 Aboki street, Wuse, abuja",
+            "officeAt": "7 Danjuma Close, Gwarimpa, Abuja",
+            "firmName": "Musa Properties Ltd",
+            "designation": "Marketing Officer",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "qualifications": "Engineer",
+            "married": true,
+            "marriedTo": "Mary Musa",
+            "verified": true,
+            "myListings": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "createdAt": "12th March, 2019"
+        },
+        "agent3": {
+            "title": "Mr",
+            "firstName": "Kelvin",
+            "surname": "Musa",
+            "gender": "Male",
+            "livesAt": "12 Aboki street, Wuse, abuja",
+            "officeAt": "7 Danjuma Close, Gwarimpa, Abuja",
+            "firmName": "Musa Properties Ltd",
+            "designation": "Marketing Officer",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "qualifications": "Engineer",
+            "married": true,
+            "marriedTo": "Mary Musa",
+            "verified": true,
+            "myListings": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "createdAt": "12th March, 2019"
+        },
+        "agent4": {
+            "title": "Mr",
+            "firstName": "Kelvin",
+            "surname": "Musa",
+            "gender": "Male",
+            "livesAt": "12 Aboki street, Wuse, abuja",
+            "officeAt": "7 Danjuma Close, Gwarimpa, Abuja",
+            "firmName": "Musa Properties Ltd",
+            "designation": "Marketing Officer",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "qualifications": "Engineer",
+            "married": true,
+            "marriedTo": "Mary Musa",
+            "verified": true,
+            "myListings": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "createdAt": "12th March, 2019"
+        },
+        "agent5": {
+            "title": "Mr",
+            "firstName": "Kelvin",
+            "surname": "Musa",
+            "gender": "Male",
+            "livesAt": "12 Aboki street, Wuse, abuja",
+            "officeAt": "7 Danjuma Close, Gwarimpa, Abuja",
+            "firmName": "Musa Properties Ltd",
+            "designation": "Marketing Officer",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "qualifications": "Engineer",
+            "married": true,
+            "marriedTo": "Mary Musa",
+            "verified": true,
+            "myListings": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "createdAt": "12th March, 2019"
+        },
+        "agent6": {
+            "title": "Mr",
+            "firstName": "Kelvin",
+            "surname": "Musa",
+            "gender": "Male",
+            "livesAt": "12 Aboki street, Wuse, abuja",
+            "officeAt": "7 Danjuma Close, Gwarimpa, Abuja",
+            "firmName": "Musa Properties Ltd",
+            "designation": "Marketing Officer",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "qualifications": "Engineer",
+            "married": true,
+            "marriedTo": "Mary Musa",
+            "verified": true,
+            "myListings": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "createdAt": "12th March, 2019"
+        },
+        "agent7": {
+            "title": "Mr",
+            "firstName": "Kelvin",
+            "surname": "Musa",
+            "gender": "Male",
+            "livesAt": "12 Aboki street, Wuse, abuja",
+            "officeAt": "7 Danjuma Close, Gwarimpa, Abuja",
+            "firmName": "Musa Properties Ltd",
+            "designation": "Marketing Officer",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "qualifications": "Engineer",
+            "married": true,
+            "marriedTo": "Mary Musa",
+            "verified": true,
+            "myListings": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "createdAt": "12th March, 2019"
+        },
+        "agent8": {
+            "title": "Mr",
+            "firstName": "Kelvin",
+            "surname": "Musa",
+            "gender": "Male",
+            "livesAt": "12 Aboki street, Wuse, abuja",
+            "officeAt": "7 Danjuma Close, Gwarimpa, Abuja",
+            "firmName": "Musa Properties Ltd",
+            "designation": "Marketing Officer",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "qualifications": "Engineer",
+            "married": true,
+            "marriedTo": "Mary Musa",
+            "verified": true,
+            "myListings": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "createdAt": "12th March, 2019"
+        },
+        "agent9": {
+            "title": "Mr",
+            "firstName": "Kelvin",
+            "surname": "Musa",
+            "gender": "Male",
+            "livesAt": "12 Aboki street, Wuse, abuja",
+            "officeAt": "7 Danjuma Close, Gwarimpa, Abuja",
+            "firmName": "Musa Properties Ltd",
+            "designation": "Marketing Officer",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "qualifications": "Engineer",
+            "married": true,
+            "marriedTo": "Mary Musa",
+            "verified": true,
+            "myListings": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "createdAt": "12th March, 2019"
+        },
+        "agent10": {
+            "title": "Mr",
+            "firstName": "Kelvin",
+            "surname": "Musa",
+            "gender": "Male",
+            "livesAt": "12 Aboki street, Wuse, abuja",
+            "officeAt": "7 Danjuma Close, Gwarimpa, Abuja",
+            "firmName": "Musa Properties Ltd",
+            "designation": "Marketing Officer",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "qualifications": "Engineer",
+            "married": true,
+            "marriedTo": "Mary Musa",
+            "verified": true,
+            "myListings": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "createdAt": "12th March, 2019"
+        },
+        "agent11": {
+            "title": "Mr",
+            "firstName": "Kelvin",
+            "surname": "Musa",
+            "gender": "Male",
+            "livesAt": "12 Aboki street, Wuse, abuja",
+            "officeAt": "7 Danjuma Close, Gwarimpa, Abuja",
+            "firmName": "Musa Properties Ltd",
+            "designation": "Marketing Officer",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "qualifications": "Engineer",
+            "married": true,
+            "marriedTo": "Mary Musa",
+            "verified": true,
+            "myListings": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "createdAt": "12th March, 2019"
+        },
+        "agent12": {
+            "title": "Mr",
+            "firstName": "Kelvin",
+            "surname": "Musa",
+            "gender": "Male",
+            "livesAt": "12 Aboki street, Wuse, abuja",
+            "officeAt": "7 Danjuma Close, Gwarimpa, Abuja",
+            "firmName": "Musa Properties Ltd",
+            "designation": "Marketing Officer",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "qualifications": "Engineer",
+            "married": true,
+            "marriedTo": "Mary Musa",
+            "verified": true,
+            "myListings": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "createdAt": "12th March, 2019"
+        },
+        "agent13": {
+            "title": "Mr",
+            "firstName": "Kelvin",
+            "surname": "Musa",
+            "gender": "Male",
+            "livesAt": "12 Aboki street, Wuse, abuja",
+            "officeAt": "7 Danjuma Close, Gwarimpa, Abuja",
+            "firmName": "Musa Properties Ltd",
+            "designation": "Marketing Officer",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "qualifications": "Engineer",
+            "married": true,
+            "marriedTo": "Mary Musa",
+            "verified": true,
+            "myListings": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "createdAt": "12th March, 2019"
+        },
+        "agent14": {
+            "title": "Mr",
+            "firstName": "Kelvin",
+            "surname": "Musa",
+            "gender": "Male",
+            "livesAt": "12 Aboki street, Wuse, abuja",
+            "officeAt": "7 Danjuma Close, Gwarimpa, Abuja",
+            "firmName": "Musa Properties Ltd",
+            "designation": "Marketing Officer",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "qualifications": "Engineer",
+            "married": true,
+            "marriedTo": "Mary Musa",
+            "verified": true,
+            "myListings": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "createdAt": "12th March, 2019"
+        },
+        "agent15": {
+            "title": "Mr",
+            "firstName": "Kelvin",
+            "surname": "Musa",
+            "gender": "Male",
+            "livesAt": "12 Aboki street, Wuse, abuja",
+            "officeAt": "7 Danjuma Close, Gwarimpa, Abuja",
+            "firmName": "Musa Properties Ltd",
+            "designation": "Marketing Officer",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "qualifications": "Engineer",
+            "married": true,
+            "marriedTo": "Mary Musa",
+            "verified": true,
+            "myListings": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "createdAt": "12th March, 2019"
+        },
+        "agent16": {
+            "title": "Mr",
+            "firstName": "Kelvin",
+            "surname": "Musa",
+            "gender": "Male",
+            "livesAt": "12 Aboki street, Wuse, abuja",
+            "officeAt": "7 Danjuma Close, Gwarimpa, Abuja",
+            "firmName": "Musa Properties Ltd",
+            "designation": "Marketing Officer",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "qualifications": "Engineer",
+            "married": true,
+            "marriedTo": "Mary Musa",
+            "verified": true,
+            "myListings": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "createdAt": "12th March, 2019"
+        },
+        "agent17": {
+            "title": "Mr",
+            "firstName": "Kelvin",
+            "surname": "Musa",
+            "gender": "Male",
+            "livesAt": "12 Aboki street, Wuse, abuja",
+            "officeAt": "7 Danjuma Close, Gwarimpa, Abuja",
+            "firmName": "Musa Properties Ltd",
+            "designation": "Marketing Officer",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "qualifications": "Engineer",
+            "married": true,
+            "marriedTo": "Mary Musa",
+            "verified": true,
+            "myListings": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "createdAt": "12th March, 2019"
+        },
+        "agent18": {
+            "title": "Mr",
+            "firstName": "Kelvin",
+            "surname": "Musa",
+            "gender": "Male",
+            "livesAt": "12 Aboki street, Wuse, abuja",
+            "officeAt": "7 Danjuma Close, Gwarimpa, Abuja",
+            "firmName": "Musa Properties Ltd",
+            "designation": "Marketing Officer",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "qualifications": "Engineer",
+            "married": true,
+            "marriedTo": "Mary Musa",
+            "verified": true,
+            "myListings": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "createdAt": "12th March, 2019"
+        },
+        "agent19": {
+            "title": "Mr",
+            "firstName": "Kelvin",
+            "surname": "Musa",
+            "gender": "Male",
+            "livesAt": "12 Aboki street, Wuse, abuja",
+            "officeAt": "7 Danjuma Close, Gwarimpa, Abuja",
+            "firmName": "Musa Properties Ltd",
+            "designation": "Marketing Officer",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "qualifications": "Engineer",
+            "married": true,
+            "marriedTo": "Mary Musa",
+            "verified": true,
+            "myListings": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "createdAt": "12th March, 2019"
+        },
+        "agent20": {
+            "title": "Mr",
+            "firstName": "Kelvin",
+            "surname": "Musa",
+            "gender": "Male",
+            "livesAt": "12 Aboki street, Wuse, abuja",
+            "officeAt": "7 Danjuma Close, Gwarimpa, Abuja",
+            "firmName": "Musa Properties Ltd",
+            "designation": "Marketing Officer",
+            "images": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "qualifications": "Engineer",
+            "married": true,
+            "marriedTo": "Mary Musa",
+            "verified": true,
+            "myListings": ["/assets/images/property1.jpg", "/assets/images/property2.jpg", "/assets/images/property3.jpg", "/assets/images/property4.jpg"],
+            "createdAt": "12th March, 2019"
+        }
+    },
+    "mortgagees": {
+        "mortgagee1": {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+        "mortgagee2": {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+        "mortgagee3": {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+        "mortgagee4": {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+        "mortgagee5": {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+        "mortgagee6": {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+        "mortgagee7": {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+        "mortgagee8": {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+        "mortgagee9": {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+        "mortgagee10": {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+        "mortgagee11": {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+        "mortgagee12": {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+        "mortgagee13": {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+        "mortgagee14": {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+        "mortgagee15": {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+        "mortgagee16": {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+        "mortgagee17": {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+        "mortgagee18": {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+        "mortgagee19": {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+        "mortgagee20": {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        }
+    },
+    "comments": [
+        {
+            "id": 1,
+            "title": "hello",
+            "name": "Musa Ade",
+            "time": "1pm",
+            "avatarUrl": "/assets/images/property1.jpg",
+            "text": ""
+        },
+        {
+            "id": 2,
+            "title": "hello",
+            "name": "Musa Ade",
+            "time": "2pm",
+            "avatarUrl": "/assets/images/property1.jpg",
+            "text": ""
+        },
+        {
+            "id": 3,
+            "title": "hello",
+            "name": "Musa Ade",
+            "time": "3pm",
+            "avatarUrl": "/assets/images/property1.jpg",
+            "text": ""
+        },
+        {
+            "id": 4,
+            "title": "hello",
+            "name": "Musa Ade",
+            "time": "4pm",
+            "avatarUrl": "/assets/images/property1.jpg",
+            "text": ""
+        },
+        {
+            "id": 5,
+            "title": "hello",
+            "name": "Musa Ade",
+            "time": "5pm",
+            "avatarUrl": "/assets/images/property1.jpg",
+            "text": ""
+        },
+        {
+            "id": 6,
+            "title": "hello",
+            "name": "Musa Ade",
+            "time": "6pm",
+            "avatarUrl": "/assets/images/property1.jpg",
+            "text": ""
+        }
+    ],
+    "wishgrps": {
+        "wishgrp1": ["id1", "id2", "id3", "id4", "id5", "id6", "id7", "id8", "id9", "id10"],
+        "wishgrp2": ["id1", "id2", "id3", "id4", "id5", "id6", "id7", "id8", "id9", "id10"],
+        "wishgrp3": ["id1", "id2", "id3", "id4", "id5", "id6", "id7", "id8", "id9", "id10"],
+        "wishgrp4": ["id1", "id2", "id3", "id4", "id5", "id6", "id7", "id8", "id9", "id10"],
+        "wishgrp5": ["id1", "id2", "id3", "id4", "id5", "id6", "id7", "id8", "id9", "id10"],
+        "wishgrp6": ["id1", "id2", "id3", "id4", "id5", "id6", "id7", "id8", "id9", "id10"],
+        "wishgrp7": ["id1", "id2", "id3", "id4", "id5", "id6", "id7", "id8", "id9", "id10"],
+        "wishgrp8": ["id1", "id2", "id3", "id4", "id5", "id6", "id7", "id8", "id9", "id10"],
+        "wishgrp9": ["id1", "id2", "id3", "id4", "id5", "id6", "id7", "id8", "id9", "id10"],
+        "wishgrp10": ["id1", "id2", "id3", "id4", "id5", "id6", "id7", "id8", "id9", "id10"],
+        "wishgrp11": ["id1", "id2", "id3", "id4", "id5", "id6", "id7", "id8", "id9", "id10"],
+        "wishgrp12": ["id1", "id2", "id3", "id4", "id5", "id6", "id7", "id8", "id9", "id10"],
+        "wishgrp13": ["id1", "id2", "id3", "id4", "id5", "id6", "id7", "id8", "id9", "id10"],
+        "wishgrp14": ["id1", "id2", "id3", "id4", "id5", "id6", "id7", "id8", "id9", "id10"],
+        "wishgrp15": ["id1", "id2", "id3", "id4", "id5", "id6", "id7", "id8", "id9", "id10"]
+    },
+    "verified": {
+        "property1": true,
+        "property2": true,
+        "property3": false,
+        "property4": true,
+        "property5": false,
+        "property6": true,
+        "property7": false,
+        "property8": true,
+        "property9": false,
+        "property10": true,
+        "property11": false,
+        "property12": true,
+        "property13": false,
+        "property14": true,
+        "property15": true
+    },
+    "wishable": {
+        "property1": true,
+        "property2": true,
+        "property3": false,
+        "property4": true,
+        "property5": false,
+        "property6": true,
+        "property7": false,
+        "property8": true,
+        "property9": false,
+        "property10": true,
+        "property11": false,
+        "property12": true,
+        "property13": false,
+        "property14": true,
+        "property15": true
+    },
+    "paidAccount": {
+        "agent1": true,
+        "agent2": false,
+        "agent3": true,
+        "agent4": false,
+        "agent5": true,
+        "agent6": false,
+        "agent7": true,
+        "agent8": true,
+        "agent9": false,
+        "agent10": true,
+        "agent11": false,
+        "agent12": true,
+        "agent13": true,
+        "agent14": false,
+        "agent15": true,
+        "agent16": false,
+        "agent17": true,
+        "agent18": false,
+        "agent19": true,
+        "agent20": true
+    },
+
+    "wishedTo":[
+        "id1",
+        "id2",
+        "id3",
+        "id4",
+        "id5",
+        "id6",
+        "id7",
+        "id8",
+        "id9",
+        "id10"
+    ],
+    "paidListing": {
+        "property1": true,
+        "property2": true,
+        "property3": false,
+        "property4": true,
+        "property5": false,
+        "property6": true,
+        "property7": false,
+        "property8": true,
+        "property9": false,
+        "property10": true,
+        "property11": false,
+        "property12": true,
+        "property13": false,
+        "property14": true,
+        "property15": true
+    }
+}
