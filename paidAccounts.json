@@ -1,0 +1,24 @@
+{
+"paidAccount": {
+        "agent1": true,
+        "agent2": false,
+        "agent3": true,
+        "agent4": false,
+        "agent5": true,
+        "agent6": false,
+        "agent7": true,
+        "agent8": true,
+        "agent9": false,
+        "agent10": true,
+        "agent11": false,
+        "agent12": true,
+        "agent13": true,
+        "agent14": false,
+        "agent15": true,
+        "agent16": false,
+        "agent17": true,
+        "agent18": false,
+        "agent19": true,
+        "agent20": true
+    }
+}

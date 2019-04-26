@@ -1,0 +1,484 @@
+{
+"mortgagees": [
+        {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+        {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+        {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+        {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+        {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+         {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+         {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+         {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+        {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+         {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+         {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+         {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+        {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+         {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+         {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+         {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+         {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+         {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+         {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        },
+        {
+            "companyName": "Markon Bank Ltd",
+            "RCNo": "RC1988",
+            "officeAddress": "14 Banjo Street, Wuse II, Abuja",
+            "phoneContact": "08032323232",
+            "contactPerson": "Martins Ojo",
+            "principalOfficers": {
+                "po1": {
+                    "firstname": "Adamu",
+                    "surname": "Yaro",
+                    "address": "10 Nana Street, Bwari, Abuja",
+                    "phoneContact": "090883838383"
+                },
+                "po2": {
+                    "firstname": "Mary",
+                    "surname": "Uja",
+                    "address": "12 Verizon Street, Kubwa, Abuja",
+                    "phoneContact": "070545423872"
+                }
+            },
+            "interestRate": "15% - 25%",
+            "maxDuration": "15 - 25",
+            "createdAt": "15th November, 2018"
+        }
+    ]
+}

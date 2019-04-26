@@ -1,0 +1,59 @@
+{
+
+"messages": [
+        {
+            "id1": "",
+            "title": "hello",
+            "senderName": "Musa Ade",
+            "messageText": "Just greeting you",
+            "time": "12pm",
+            "avatarUrl": "/assets/images/property1.jpg",
+            "receiverName": "Mark Ochoga"
+        },
+        {
+            "id2": "",
+            "title": "hi",
+            "senderName": "Mary ude",
+            "messageText": "Just Answering you",
+            "time": "1pm",
+            "avatarUrl": "/assets/images/property1.jpg",
+            "receiverName": "Mike Okoro"
+        },
+        {
+            "id3": "",
+            "title": "hello",
+            "senderName": "Yakubu John",
+            "messageText": "How you dey",
+            "time": "2pm",
+            "avatarUrl": "/assets/images/property1.jpg",
+            "receiverName": "Mark Ochoga"
+        },
+        {
+            "id4": "",
+            "title": "hello",
+            "senderName": "Jude Ida",
+            "messageText": "How much is the house",
+            "time": "3pm",
+            "avatarUrl": "/assets/images/property1.jpg",
+            "receiverName": "Mark Ochoga"
+        },
+        {
+            "id5": "",
+            "title": "hello",
+            "senderName": "Musa Ade",
+            "messageText": "Am seeling it N23,000,000",
+            "time": "4pm",
+            "avatarUrl": "/assets/images/property1.jpg",
+            "receiverName": "Mark Ochoga"
+        },
+        {
+            "id6": "",
+            "title": "hello",
+            "senderName": "Markus Ada",
+            "messageText": "Is it furnished",
+            "time": "5pm",
+            "avatarUrl": "/assets/images/property1.jpg",
+            "receiverName": "Mark Ochoga"
+        }
+    ]
+}

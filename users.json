@@ -1,0 +1,225 @@
+{
+
+"users": [
+        {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp3": true,
+                "wishgrp4": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp5": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp2": true,
+                "wishgrp6": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp3": true,
+                "wishgrp5": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp4": true,
+                "wishgrp6": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp4": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp2": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+        {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        },
+         {
+            "username": "john",
+            "full_name": "John Vincent",
+            "created_at": "9th Feb 2015",
+            "gender": "male",
+            "groups": {
+                "wishgrp1": true,
+                "wishgrp3": true
+            },
+            "last_logins": "9th Feb 2015"
+        }
+    ]
+}

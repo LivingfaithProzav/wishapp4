@@ -1,0 +1,19 @@
+  {
+       "verified": {
+        "property1": true,
+        "property2": true,
+        "property3": false,
+        "property4": true,
+        "property5": false,
+        "property6": true,
+        "property7": false,
+        "property8": true,
+        "property9": false,
+        "property10": true,
+        "property11": false,
+        "property12": true,
+        "property13": false,
+        "property14": true,
+        "property15": true
+       }
+  }

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
+import 'dart:async';
 
 class WishAppHome extends StatefulWidget {
   const WishAppHome({Key key}) : super(key: key);
@@ -8,82 +9,39 @@ class WishAppHome extends StatefulWidget {
   _WishAppHomeState createState() => _WishAppHomeState();
 }
 
-class _WishAppHomeState extends State<WishAppHome>
-    with SingleTickerProviderStateMixin {
+class _WishAppHomeState extends State<WishAppHome> {
   var _isLoading = true;
-
-  var properties;
-  _fetchData() async {
-    print('Attempting to fetch data from the network');
-    final url =
-        "https://www.privateproperty.com.ng/development-projects/ocean-villa-garden-ikota";
-    final response = await http.get(url);
-    if (response.statusCode == 200) {
-      print(response.body);
-
-      final map = json.decode(response.body);
-      final propertiesJson = map['properties'];
-
-      /* propertiesJson.forEach((property){
-        print(property['address']);
-      }); */
-
-      setState(() {
-        _isLoading = false;
-        this.properties = propertiesJson;
-      });
-    }
-  }
-
-  final url = "https://www.privateproperty.com.ng/development-projects";
-  List data;
+  final String url = 'http://my-json-server.typicode.com/LivingfaithProzav/wishapp/properties';
+  List properties;
 
   @override
   void initState() {
     super.initState();
-    getJsonData();
+    this.getJsonData();
   }
 
-  // Future<String> getJsonData() async {
-  //   var response = await http.get(
-  //     Uri.encodeFull(url),
-  //     headers: {"Accept" : "Application/json"}
-  //     );
-  //     print(response.body);
+  Future<String> getJsonData() async {
+    var response = await http
+        .get(Uri.encodeFull(url), headers: {"Accept": "application/json"});
+    print(response.body);
 
-  //     setState(() {
-  //      var convertDataToJson = JSON.decode(response.body);
-  //      data = convertDataToJson['results'];
-  //     });
-  //     return "success";
-  // }
+    setState(() {
+      var convertDataToJson = json.decode(response.body);
+      properties = convertDataToJson['properties'];
+    });
+    return "success";
+  }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Prozav'),
+        title: Text('WishApp'),
         elevation: 0.7,
         actions: <Widget>[
           new Icon(Icons.search),
           new Padding(
             padding: const EdgeInsets.symmetric(horizontal: 5.0),
-          ),
-          new Center(
-            child: new IconButton(
-              icon: new Icon(Icons.refresh),
-              onPressed: () {
-                setState(() {
-                  _isLoading = true;
-                });
-                _fetchData();
-              },
-            ),
-          ),
-          new Center(
-            child: _isLoading
-                ? new CircularProgressIndicator()
-                : new Text('Finished loading....'),
           ),
           new Icon(Icons.more_vert)
         ],
@@ -92,7 +50,7 @@ class _WishAppHomeState extends State<WishAppHome>
         child: _isLoading
             ? new CircularProgressIndicator()
             : new ListView.builder(
-                itemCount: this.properties != null ? this.properties.lenght : 0,
+                itemCount: this.properties != null ? this.properties.length : 0,
                 itemBuilder: (BuildContext context, i) {
                   final property = this.properties[i];
                   return new Container(
@@ -105,7 +63,7 @@ class _WishAppHomeState extends State<WishAppHome>
                               foregroundColor: Theme.of(context).primaryColor,
                               backgroundColor: Colors.grey,
                               backgroundImage:
-                                  new NetworkImage(property['agent']),
+                                  new NetworkImage(property['postedBy']),
                             ),
                           ),
                           onPressed: () {
@@ -117,7 +75,27 @@ class _WishAppHomeState extends State<WishAppHome>
                         ),
                         new FlatButton(
                           padding: new EdgeInsets.all(0.0),
-                          child: new PropertyCell(property),
+                          child: new Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: <Widget>[
+                              new Image.network(property['postedBy']),
+                              new Container(
+                                height: 8.0,
+                              ),
+                              new Text(
+                                property['description'],
+                                style: new TextStyle(
+                                    fontSize: 16.0,
+                                    fontWeight: FontWeight.bold),
+                              ),
+                              new Text(
+                                property['price'],
+                                style: new TextStyle(
+                                    fontSize: 16.0,
+                                    fontWeight: FontWeight.bold),
+                              )
+                            ],
+                          ),
                           onPressed: () {
                             Navigator.push(
                                 context,
@@ -176,8 +154,6 @@ class _WishAppHomeState extends State<WishAppHome>
   }
 }
 
-void getJsonData() {}
-
 class SubDetail extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -205,7 +181,7 @@ class PropertyCell extends StatelessWidget {
           child: new Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: <Widget>[
-              new Image.network(property['image']),
+              new Image.network(property['postedBy']),
               new Container(
                 height: 8.0,
               ),
